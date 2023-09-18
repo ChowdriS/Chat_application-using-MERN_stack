@@ -1,4 +1,4 @@
 const ChatsPage = () => {
-    return <div>chats...</div>;
+    return <div>Api called</div>;
   };
   export default ChatsPage;
